@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves building innovative solutions, exploring new technologies, and collaborating with the open-source community.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ix1g/ix1g/main/assets/wave.svg" alt="Waving Hand" width="300">
-</p>
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Next.js - React]**.

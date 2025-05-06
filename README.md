@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **[Next.js - React]**.<br>- 💼 I'm currently working on **[Ticket System on a website tickets.sayrz.xyz]**.<br>- 🤝 I’m looking to collaborate on **open-source projects** and **exciting development challenges**.
+- Hello! I'm Omar, navigating the digital world as SaYrZ. I'm a dedicated **__FRONTEND__** developer with a keen and growing passion for backend technologies and *AI* integration. My focus is on building intuitive, **high-performance** web applications and engaging user interfaces.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ix1g&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
